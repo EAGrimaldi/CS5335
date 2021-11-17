@@ -1,0 +1,1 @@
+The class skipped this homework due to scheduling constraints.
